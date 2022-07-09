@@ -1,0 +1,8 @@
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\Certamen_3\Certamen_3\bin\Debug\Certamen_3.exe.config
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\Certamen_3\Certamen_3\bin\Debug\Certamen_3.exe
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\Certamen_3\Certamen_3\bin\Debug\Certamen_3.pdb
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\Certamen_3\Certamen_3\obj\Debug\Certamen_3.csproj.AssemblyReference.cache
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\Certamen_3\Certamen_3\obj\Debug\Certamen_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\Certamen_3\Certamen_3\obj\Debug\Certamen_3.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\Certamen_3\Certamen_3\obj\Debug\Certamen_3.exe
+C:\Users\Gustavo\OneDrive - virginiogomez.cl\Escritorio\T.LENG. PROG 1SEMESTRE\Certamen_3\Certamen_3\obj\Debug\Certamen_3.pdb
